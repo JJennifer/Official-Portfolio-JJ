@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Official-Portfolio-JJ/static/css/main.06cb97fa.css",
-    "main.js": "/Official-Portfolio-JJ/static/js/main.a3d65e75.js",
+    "main.css": "/Official-Portfolio-JJ/static/css/main.e1e458e3.css",
+    "main.js": "/Official-Portfolio-JJ/static/js/main.6f6652d7.js",
     "static/js/787.146a3669.chunk.js": "/Official-Portfolio-JJ/static/js/787.146a3669.chunk.js",
+    "static/media/IMG_0702.jpg": "/Official-Portfolio-JJ/static/media/IMG_0702.1e9f73f1c1503646c34d.jpg",
+    "static/media/Screenshot 2023-06-09 at 8.13.35 PM.png": "/Official-Portfolio-JJ/static/media/Screenshot 2023-06-09 at 8.13.35 PM.75316365b3e918ca41c1.png",
     "index.html": "/Official-Portfolio-JJ/index.html",
-    "main.06cb97fa.css.map": "/Official-Portfolio-JJ/static/css/main.06cb97fa.css.map",
-    "main.a3d65e75.js.map": "/Official-Portfolio-JJ/static/js/main.a3d65e75.js.map",
+    "main.e1e458e3.css.map": "/Official-Portfolio-JJ/static/css/main.e1e458e3.css.map",
+    "main.6f6652d7.js.map": "/Official-Portfolio-JJ/static/js/main.6f6652d7.js.map",
     "787.146a3669.chunk.js.map": "/Official-Portfolio-JJ/static/js/787.146a3669.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06cb97fa.css",
-    "static/js/main.a3d65e75.js"
+    "static/css/main.e1e458e3.css",
+    "static/js/main.6f6652d7.js"
   ]
 }
