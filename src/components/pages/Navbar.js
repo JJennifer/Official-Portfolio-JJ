@@ -24,7 +24,7 @@ export default function NavTabs({ currentPage, handlePageChange }) {
             onClick={() => handlePageChange('About')}
             className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
           >
-            About
+            About Me
           </a>
         </Nav.Link>
         <Nav.Link className="nav-item list mb-3 mb-lg-4">

@@ -6,7 +6,8 @@ import picture from '../images/IMG_0702.jpg'
 export default function About() {
     return (
       <div>
-        <h1 style={{textAlign: 'center', backgroundColor:'#FDF5E6', color: 'black'}}>About Me</h1>
+        <h1 style={{textAlign: 'center', backgroundColor:'#FDF5E6', color: 'black'}}>Jennifer's Portfolio</h1>
+        <h2 style={{textAlign: 'center', backgroundColor:'#FDF5E6', color: 'black'}}>About Me</h2>
         <div>
         <Container>
         <Row>

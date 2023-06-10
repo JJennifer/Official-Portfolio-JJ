@@ -21,7 +21,7 @@ p {
 }
 
 .myImage {
-  margin-left: 600px;
+  margin-left: 630px;
 }
 
 .projects {
@@ -32,4 +32,13 @@ p {
 
 .projects h1 {
   margin-right: 450px;
+}
+
+.contactme {
+  display: block;
+}
+
+.nav-item {
+  float:right;
+  margin-right: 20px;
 }
