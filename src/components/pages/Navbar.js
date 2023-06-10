@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, Container } from 'react-bootstrap';
+import { Nav } from 'react-bootstrap';
 import Navbar from 'react-bootstrap/Navbar';
 
 
@@ -7,14 +7,14 @@ export default function NavTabs({ currentPage, handlePageChange }) {
     return (
       <>
       <Navbar bg='pink' expand='lg'>
-        <Container>
+        {/* <Container>
         <Navbar.Brand
           href="#about"
           onClick={() => handlePageChange('About')}
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
         >
         </Navbar.Brand>
-        </Container>
+        </Container> */}
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className='collapse'>
         <Nav className='me-auto'>
