@@ -1,5 +1,6 @@
 import React from 'react';
-import {Container, Row, Col} from 'react-bootstrap';
+import {Container, Row, Col, Image} from 'react-bootstrap';
+import picture from '../images/IMG_0702.jpg'
 
 
 export default function About() {
@@ -10,7 +11,7 @@ export default function About() {
         <Container>
         <Row>
           <Col>
-          <p>Place Holder for Image</p>
+          <Image src={picture} alt='Myimage' className='myImage' roundedCircle style={{maxHeight:'50vh', maxWidth:'70vh'}}></Image>
           </Col>
           <Col>
             <p style={{fontFamily: 'serif'}}>
